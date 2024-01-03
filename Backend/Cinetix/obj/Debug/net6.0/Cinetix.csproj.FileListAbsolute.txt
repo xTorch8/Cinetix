@@ -1,0 +1,237 @@
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\appsettings.Development.json
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\appsettings.json
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Cinetix.exe
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Cinetix.deps.json
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Cinetix.runtimeconfig.json
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Cinetix.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Cinetix.pdb
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Azure.Core.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Azure.Identity.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.csproj.AssemblyReference.cache
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.AssemblyInfoInputs.cache
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.AssemblyInfo.cs
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.csproj.CoreCompileInputs.cache
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.MvcApplicationPartsAssemblyInfo.cs
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.MvcApplicationPartsAssemblyInfo.cache
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.Cinetix.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinetix.props
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinetix.props
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinetix.props
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\staticwebassets.build.json
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\staticwebassets.development.json
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\scopedcss\bundle\Cinetix.styles.css
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.csproj.CopyComplete
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\refint\Cinetix.dll
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.pdb
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\Cinetix.genruntimeconfig.cache
+C:\Evan-Binus\IT_Division\final_project__se\server\Cinetix\obj\Debug\net6.0\ref\Cinetix.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\appsettings.Development.json
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\appsettings.json
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Cinetix.exe
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Cinetix.deps.json
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Cinetix.runtimeconfig.json
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Cinetix.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Cinetix.pdb
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Azure.Core.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Azure.Identity.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.csproj.AssemblyReference.cache
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.AssemblyInfoInputs.cache
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.AssemblyInfo.cs
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.csproj.CoreCompileInputs.cache
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.MvcApplicationPartsAssemblyInfo.cs
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.MvcApplicationPartsAssemblyInfo.cache
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.Cinetix.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinetix.props
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinetix.props
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinetix.props
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\staticwebassets.build.json
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\staticwebassets.development.json
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\scopedcss\bundle\Cinetix.styles.css
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.csproj.CopyComplete
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\refint\Cinetix.dll
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.pdb
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\Cinetix.genruntimeconfig.cache
+C:\Evan-Binus\IT_Division\final_project__se\demo\cinetix-backend\Cinetix\obj\Debug\net6.0\ref\Cinetix.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\appsettings.Development.json
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\appsettings.json
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Cinetix.exe
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Cinetix.deps.json
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Cinetix.runtimeconfig.json
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Cinetix.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Cinetix.pdb
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Azure.Core.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Azure.Identity.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.csproj.AssemblyReference.cache
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.AssemblyInfoInputs.cache
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.AssemblyInfo.cs
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.csproj.CoreCompileInputs.cache
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.MvcApplicationPartsAssemblyInfo.cs
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.MvcApplicationPartsAssemblyInfo.cache
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.Cinetix.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinetix.props
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinetix.props
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinetix.props
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\staticwebassets.build.json
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\staticwebassets.development.json
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\scopedcss\bundle\Cinetix.styles.css
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.csproj.CopyComplete
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\refint\Cinetix.dll
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.pdb
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\Cinetix.genruntimeconfig.cache
+C:\Evan-Binus\BNCC\Activist\Elite Team\Selection\Backend\Cinetix\obj\Debug\net6.0\ref\Cinetix.dll
